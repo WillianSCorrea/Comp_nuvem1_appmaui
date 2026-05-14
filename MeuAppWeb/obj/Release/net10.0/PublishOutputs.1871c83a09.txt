@@ -1,0 +1,4 @@
+C:\Users\Willian Correa\source\repos\Comp_nuvem1_appmaui\MeuAppWeb\bin\Release\net10.0\publish\wwwroot\index.html
+C:\Users\Willian Correa\source\repos\Comp_nuvem1_appmaui\MeuAppWeb\bin\Release\net10.0\publish\MeuAppWeb.runtimeconfig.json
+C:\Users\Willian Correa\source\repos\Comp_nuvem1_appmaui\MeuAppWeb\bin\Release\net10.0\publish\dotnet.js
+C:\Users\Willian Correa\source\repos\Comp_nuvem1_appmaui\MeuAppWeb\bin\Release\net10.0\publish\web.config
